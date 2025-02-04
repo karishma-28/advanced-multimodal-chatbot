@@ -1,5 +1,3 @@
-# advanced-multimodal-chatbot
-
 # Advanced Multimodal Chatbot Readme
 
 Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do and how to get it up and running.
