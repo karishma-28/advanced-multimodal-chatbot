@@ -21,8 +21,6 @@ Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do 
 
 NOTE: This chatbot includes both the RAG-GPT and WebRAGQuery projects.
 
-**YouTube video:** [Link](https://youtu.be/AAvqscJPXIY?si=ApZ9-WfFfyGbcd-H)
-
 ## Main underlying techniques used in this chatbot:
 - LLM chains and agents
 - GPT function calling
@@ -111,7 +109,7 @@ gradio src/app.py
 
 ## Project Schema
 <div align="center">
-  <img src="images/Schema.png" alt="Schema">
+  <img src=https://github.com/user-attachments/assets/a03344bb-f10b-4e50-a2c6-a2d439e4d377 alt="Schema">
 </div>
 
 ## Key frameworks/libraries used in this chatbot:
