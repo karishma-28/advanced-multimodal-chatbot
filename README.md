@@ -3,7 +3,7 @@
 Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do and how to get it up and running.
 ## HUMAIN multi-modal multi-task chatbot
 <div align="center">
-  <img src="images/HUMAIN.png" alt="HUMAIN">
+  <img src="(https://github.com/user-attachments/assets/cbed36d7-f759-4538-af2b-2cd884cdf3b1)" alt="HUMAIN">
 </div>
 
 ## Features:
