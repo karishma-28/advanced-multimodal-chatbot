@@ -103,7 +103,7 @@ gradio src/app.py
 
 ## Chatbot User Interface
 <div align="center">
-  <img src="images/UI.png" alt="ChatBot UI">
+  <img src=https://github.com/user-attachments/assets/5a618463-53d0-40a2-9bb6-8dbc373c33bf alt="ChatBot UI">
 </div>
 
 
